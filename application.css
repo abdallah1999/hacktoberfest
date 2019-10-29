@@ -1,29 +1,12 @@
-﻿/* @font-face {
-    font-family: 'Space Mono Bold';
-    src: url(/assets/SpaceMono-Bold-6de6db9666e7940da5c4b52855ab2a0e181b14d74772b234496968230ad8c4d0.ttf)
-}
 
-@font-face {
-    font-family: 'Space Mono Bold Italic';
-    src: url(/assets/SpaceMono-BoldItalic-ccf252c1029a3abed6c3e3d1292e0f8e7cc4469c393251f0d9c811410d9c0f64.ttf)
-}
-
-@font-face {
-    font-family: 'Space Mono';
-    src: url(/assets/SpaceMono-Regular-d0855b0c557b78ea0449762b25ccca018880f483e56ff9a69e7cbde1dc12fa3a.ttf)
-}
-
-@font-face {
-    font-family: 'Space Mono Italic';
-    src: url(/assets/SpaceMono-RegularItalic-ba833450488c382ab6b809c33a637ce3997516277c0fc2f644da5647f145d866.ttf)
-} */
 
 .title.is-1,
-.title.is-2 {
+.title.is-2
+{
     font-weight: 400
 }
-
-.modal-card {
+.modal-card 
+{
     height: 100vh
 }
 
